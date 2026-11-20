@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+Disallow: /admin-disabled.html
+Disallow: /request.html

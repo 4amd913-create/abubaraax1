@@ -1,0 +1,5 @@
+# Compatibility routes and old portal/admin paths.
+/portal /request.html 302
+/portal/ /request.html 302
+/admin /admin-disabled.html 302
+/admin/ /admin-disabled.html 302
